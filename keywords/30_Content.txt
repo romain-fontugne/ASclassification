@@ -1,0 +1,33 @@
+Akamai
+Velocix
+Amazon Data
+Aryaka
+CacheFly
+CDNetworks
+CDNsun
+ChinaCache
+ChinaNetCenter
+CloudFlare
+Cotendo
+Distil
+EdgeCast
+Fastly
+Highwinds
+Incapsula
+Instart
+Internap
+KeyCDN
+LeaseWeb
+Limelight
+MaxCDN
+MetaCDN
+Mirror Image Internet
+NACEVI
+OnApp
+OVH
+QUANTIL
+Rackspace
+Speedera
+StreamZilla
+Yottaa
+CDN
