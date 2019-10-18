@@ -6,13 +6,6 @@ inc\.
 Ltd
 ltda
 s\.a\.
-bank
-insurance
-financial
-investment
-capital
-credit
-holdings
 business
 corp
 energy

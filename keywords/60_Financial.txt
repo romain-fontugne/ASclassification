@@ -1,0 +1,7 @@
+bank
+insurance
+financial
+investment
+capital
+credit
+holdings
