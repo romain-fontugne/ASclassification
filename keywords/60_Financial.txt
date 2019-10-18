@@ -5,3 +5,9 @@ investment
 capital
 credit
 holdings
+investors
+banco
+banque
+credit
+postbank
+creditbank
