@@ -22,15 +22,17 @@ def classify(regexp, asnFile="./asNames0.txt", output="results/classifiedAS.txt"
     outFile = open(output, "w")
 
     for line in open(asnFile, "r"):
+        cc = "ZZ"
         if " " in line:
-            asn, _, _ = line.partition(" ")
+            asn, _, name = line.partition(" ")
+            cc = name.split(" ")[-1]
         else:
             asn = line
 
         for (label, reg) in regexp:
             if reg.search(line):
                 count += 1
-                outFile.write("%s %s\n" % (asn[2:], label))
+                outFile.write("%s %s, %s\n" % (asn[2:], label, cc))
                 break
 
     sys.stderr.write("Found %s ASs\n" % count)
